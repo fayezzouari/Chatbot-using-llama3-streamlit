@@ -13,7 +13,6 @@ This project demonstrates how to build a conversational chatbot using Streamlit 
   - [Usage](#usage)
     - [app.py](#apppy)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Introduction
 
@@ -73,7 +72,3 @@ This script contains the main logic for the Streamlit app, including:
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
