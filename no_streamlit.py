@@ -43,7 +43,7 @@ def generate_response(user_input):
 
 # Define the Replicate API endpoint and your API token
 client = Groq(
-    api_key="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",
+    api_key="your_groq_api_key_here",
 )
 
 
