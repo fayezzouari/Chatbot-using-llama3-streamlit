@@ -11,7 +11,7 @@ This project demonstrates how to build a conversational chatbot using Streamlit 
   - [Requirements](#requirements)
   - [Installation](#installation)
   - [Usage](#usage)
-    - [app.py](#apppy)
+    - [main.py](#mainpy)
   - [Contributing](#contributing)
 
 ## Introduction
@@ -54,14 +54,14 @@ This project utilizes Streamlit to create a web-based interface for a chatbot po
 1. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 2. Open your web browser and navigate to `http://localhost:8501`.
 
 3. Enter your prompt in the text area and click "Generate" to interact with the chatbot.
 
-### app.py
+### main.py
 
 This script contains the main logic for the Streamlit app, including:
 
