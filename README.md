@@ -29,7 +29,6 @@ This project utilizes Streamlit to create a web-based interface for a chatbot po
 
 - Python 3.7 or higher
 - Streamlit
-- Replicate
 - Groq API key
 
 ## Installation
@@ -44,12 +43,12 @@ This project utilizes Streamlit to create a web-based interface for a chatbot po
 2. Install the required Python packages:
 
     ```bash
-    pip install streamlit replicate groq
+    pip install streamlit groq
     ```
 
 3. Set up your Groq API key:
 
-    Replace `"your_replicate_api_token"` in the script with your actual Groq API key.
+    Replace `"your_groq_api_token"` in the script with your actual Groq API key.
 
 ## Usage
 
