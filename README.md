@@ -35,7 +35,7 @@ This project utilizes Streamlit to create a web-based interface for a chatbot po
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/streamlit-chatbot.git
+    git clone https://github.com/fayezzouari/chatbot-using-llama3-streamlit.git
     cd streamlit-chatbot
     ```
 
